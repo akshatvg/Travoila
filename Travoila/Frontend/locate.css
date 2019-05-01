@@ -1,0 +1,163 @@
+body{
+    margin:0;
+    padding:0;
+    overflow:hidden;
+}
+/* .container{
+    margin:0;
+    padding:0;
+} */
+.img{
+    max-width:50px;
+    max-height:140px;
+    width:20vw;
+    height:auto;
+    color: white;
+}
+.navbar{
+    background:#48ba86;
+    width:20vw;
+    height:100vh;
+    padding:20px;
+}
+.title{
+  display:inline;
+  max-width: 183px;
+  max-height: 72.5px;
+  width: 25vw;
+  height: auto;
+  font-family: 'Londrina Outline', cursive;
+  font-size: 5em;
+  font-weight: bold;
+  color: #91d6b6;
+  padding-top:80px;
+  /* margin-top:40px; */
+}
+.AirportInfo{
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.22;
+  font-family: 'Muli';
+  font-size: 2em;
+  letter-spacing: normal;
+  text-align: left;
+  color:white;
+  padding:20px;
+}
+.Shop{
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.22;
+  font-family: 'Muli';
+  font-size: 2em;
+  letter-spacing: normal;
+  text-align: left;
+  color: #91d6b6;
+  padding:20px;
+}
+.FlightStatus{
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.22;
+  font-family: 'Muli';
+  font-size: 2em;
+  letter-spacing: normal;
+  text-align: left;
+  color: #91d6b6;
+  padding:20px;
+}
+.Congestion{
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.22;
+  font-family: 'Muli';
+  font-size: 2em;
+  letter-spacing: normal;
+  text-align: left;
+  color: #91d6b6;
+  padding:20px;
+}
+.CabBooking{
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.22;
+  font-family: 'Muli';
+  font-size: 2em;
+  letter-spacing: normal;
+  text-align: left;
+  color: #91d6b6;
+  padding:20px;
+}
+.MinorMonitor{
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.22;
+  font-family: 'Muli';
+  font-size: 2em;
+  letter-spacing: normal;
+  text-align: left;
+  color: #91d6b6;
+  padding:20px;
+}
+.main{
+    position:fixed;
+    width:100vw;
+    height:auto;
+    top:0;
+    left:19vw;
+}
+.locate{
+  position:relative;
+  display:inline;
+  max-width: 183px;
+  max-height: 72.5px;
+  width: 25vw;
+  height: auto;
+  font-family: 'Londrina Outline', 'cursive';
+  font-size: 5em;
+  font-weight: bold;
+  color: #48ba86;
+  left:100px;
+}
+.eatate{
+  position:relative;
+  display:inline;
+  max-width: 183px;
+  max-height: 72.5px;
+  width: 25vw;
+  height: auto;
+  font-family: 'Londrina Outline', 'cursive';
+  font-size: 5em;
+  font-weight: bold;
+  color: #48ba86;
+  left:200px;
+}
+.color{
+    background:#48ba86;
+    /* max-width: 217px; */
+    /* max-height: 82px; */
+    width:18vw;
+    height:12vh;
+    border-radius: 10px 0px 0px 10px;
+    position:fixed;
+    top:0;
+    right:0;
+    font-family:'Muli';
+    font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.21;
+  letter-spacing: normal;
+  padding:30px;
+  text-align: right;
+    font-size: 2em;
+    color:white;
+
+
+}
