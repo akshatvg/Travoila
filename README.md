@@ -10,6 +10,8 @@ Hate standing in lines?
 
 Hate shopping but relatives needed something from a Duty Free?
 
+Travoila makes your life easier by taking care of all these problems.
+
 
 ## Features
 
