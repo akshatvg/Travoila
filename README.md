@@ -28,19 +28,3 @@ Travoila makes your life easier by taking care of all these problems.
 6) Cab bookings.
 
 7) Broadcast messages to travelers.
-
-
-## Team
-
-DSC
-
-
-## Members
-
-1) Akshat Gupta
-
-2) Ananya Ganesh
-
-3) Aditya Rathore
-
-4) Abhishek Kushwaha
